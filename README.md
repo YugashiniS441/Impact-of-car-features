@@ -70,6 +70,6 @@ This project analyzes the relationship between car features, pricing, and profit
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn]() or reach out via email for collaboration opportunities.
+Feel free to connect with me on [LinkedIn]( https://www.linkedin.com/in/yugashini-s)
 
 
